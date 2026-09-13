@@ -1,0 +1,1 @@
+﻿本文件夹作用说明：存放 TFLite 模型文件（loong_cnn_model_simple.h/.tflite），供 zf_common_headfile.hpp 引用。基础巡线暂不调用 AI，保留模型以保持官方库完整可编译。

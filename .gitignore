@@ -1,0 +1,17 @@
+out/
+build/
+*.o
+*.a
+*.so
+*.elf
+*.out
+*.exe
+CMakeCache.txt
+CMakeFiles/
+libraries/
+.vscode/
+*.swp
+*~
+*.bak
+.DS_Store
+__pycache__/
